@@ -26,20 +26,18 @@ Note: You must already have made a application at https://discord.com/developers
 9. enter your bot's token in the value input bar,
 10. name the second secret exactly 'MONGO' (note: they have to be in capital and the quotes dont count),
 11. paste your mongodb login url there.
+12. name the third token exactly 'ANTINSFW' (note: they have to be in capital and the quotes dont count),
+13. paste your deepai api key there (note: in order to get the api key, you'll have to make a deepai account at https://deepai.org, you can also look for a tutorial online)
   
 now you have to install some modules.
 
 # Installing Modules
 
-You will have to install the following modules into your project:
+You will have to install the some modules into your project, for that,
 
-1. 'discord.js-akinator',
-2. 'discord-canvas'
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: the names of the modules will be appear in the console after you run your repl. if they arent appearing and you have done everything above currectly, please dm Kingerious on discord (Kingerious#4777). example of module appearing in the console: https://cdn.discordapp.com/attachments/894260496725835776/943840084854210580/unknown.png (click the link to view)
 
 1. go to the shell (its on the top-left side of replit),
-2. type 'npm i discord.js-akinator' and let it do its work and install the module,
-3. after its done, type 'npm i discord-canvas' (note: the quotes dont count),
+2. type 'npm i <modulename>' and let it do its work and install the module.
 
 AND DONE! Thats all you hafta do!
