@@ -35,9 +35,11 @@ now you have to install some modules.
 
 You will have to install the some modules into your project, for that,
 
-Note: the names of the modules will be appear in the console after you run your repl. if they arent appearing and you have done everything above currectly, please dm Kingerious on discord (Kingerious#4777). example of module appearing in the console: https://cdn.discordapp.com/attachments/894260496725835776/943840084854210580/unknown.png (click the link to view)
+Note: the names of the modules will be appear in the console after you run your repl.
+If they arent appearing and you have done everything above currectly, please dm Kingerious on discord (Kingerious#4777).
+Example of module appearing in the console: https://cdn.discordapp.com/attachments/894260496725835776/943840084854210580/unknown.png (click the link to view)
 
 1. go to the shell (its on the top-left side of replit),
-2. type 'npm i <modulename>' and let it do its work and install the module.
+2. type 'npm i <modulename>' (note: the `<` and `>` dont count) and let it do its work and install the module.
 
 AND DONE! Thats all you hafta do!
