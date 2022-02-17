@@ -8,8 +8,6 @@ Circel Bot 2.0, can do moderation, image generation, tickets, fun commands and a
 
 Add in a music system,
 
-Add in a leveling system.
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Run the bot
