@@ -8,6 +8,8 @@ Circel Bot 2.0 can perform tasks such as moderation, picture generating, ticketi
 
 Add a music system.
 
+Add in a way to change prefixes.
+
 ————————————————————————————————————————————————————————————————————————————————————-
 
 # Start the bot.
